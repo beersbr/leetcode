@@ -1,0 +1,1 @@
+g++ main.cpp -o excel-sheet-to-column-number -Wall
